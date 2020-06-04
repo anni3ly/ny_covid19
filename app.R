@@ -53,7 +53,7 @@ df <- read.socrata(
     password  = "Rp!676!MsRHNFMy"
 )
 
-state_data<- fromJSON("https://covidtracking.com/api/states?state=NY", simplifyDataFrame=TRUE)
+state_data<- fromJSON("https://covidtracking.com/api/states?state=ny", simplifyDataFrame=TRUE)
 
 lastUpdate=state_data[["lastUpdateEt"]]
 
