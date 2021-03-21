@@ -3,6 +3,6 @@ R-based web app for tracking and analyzing COVID-19 cases in NY state and city b
 
 See the "ny_covid19_screenshots" folder for examples of the output.
 
-![alt text](https://github.com/anni3ly/ny_covid19/ny_covid_screenshots/2020-07-09 (2).png?raw=true)
+![alt text](https://github.com/anni3ly/ny_covid19/ny_covid_screenshots/`2020-07-09 (2).png`?raw=true)
 
 Contact me at anni3.ly@gmail.com for any issues.
